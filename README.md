@@ -23,7 +23,7 @@ Rather than applying broad weekend discounts that dilute tourist profitability, 
 ---
 
 ## 🖥️ Interactive Dashboard & Visualizations
-* 📂 **Power BI Interactive File (.pbix):** [Download Full Dashboard via Google Drive](https://drive.google.com/file/d/1i2gd1r1XwOt1J5fofru4fP8A05XzCb0/view?usp=sharing)
+* 📂 **Power BI Interactive File (.pbix):** [Download Full Dashboard via Google Drive](https://drive.google.com/file/d/1i2gdlrlXwOtlJ5fofru4fP8AO5XzCbO_/view?usp=drive_link)
 * 🖼️ **Visual Images:** Explore high-resolution dashboards and charts in the [`/dashboards`](./dashboards) directory.
 
 ---
