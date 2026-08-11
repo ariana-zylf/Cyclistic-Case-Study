@@ -1,4 +1,4 @@
-# 🚴 Cyclistic Bikeshare: Conversion Strategy & Executive Case Study
+# Cyclistic Bikeshare: Conversion Strategy & Executive Case Study
 
 **Role:** Data Analyst  
 **Tools:** BigQuery SQL (Sandbox), Power BI, Spatial Analytics  
@@ -23,6 +23,7 @@ Rather than applying broad weekend discounts that dilute tourist profitability, 
 ---
 
 ## 🖥️ Interactive Dashboard & Visualizations
+![Dashboard Overview](https://github.com/ariana-zylf/Cyclistic-Case-Study/blob/main/dashboards/dashboard_overview.PNG?raw=true)
 * 📂 **Power BI Interactive File (.pbix):** [Download Full Dashboard via Google Drive](https://drive.google.com/file/d/1i2gdlrlXwOtlJ5fofru4fP8AO5XzCbO_/view?usp=drive_link)
 * 🖼️ **Visual Images:** Explore high-resolution dashboards and charts in the [`/dashboards`](./dashboards) directory.
 
