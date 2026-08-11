@@ -16,7 +16,7 @@ Rather than applying broad weekend discounts that dilute tourist profitability, 
 ## 📊 Core Data Insights
 
 * **Usage Profiles:** Annual Members account for **62%** of total trips (3.55M trips) with short, consistent commutes (11.8 min avg). Casual riders represent **38%** of volume (2.00M trips) with double the ride duration (22.1 min avg) focused on leisure.
-* **Timing Separation:** Casual activity peaks heavily on weekends (Saturday/Sunday avg. 25.6 min), whereas Member usage peaks strictly during weekday commuting hours (Tuesday–Thursday).
+* **Timing Separation:** Casual activity peaks heavily on weekends (Saturday avg. 24.8, Sunday avg. 25.6 min), whereas Member usage peaks strictly during weekday commuting hours (Tuesday–Thursday).
 * **Asset Preference:** Both groups prefer Electric Bikes. However, Casuals take their longest rides on **Classic Bikes (38.98 min avg)** for extended recreational use.
 * **Spatial Separation:** Casual hotspots cluster exclusively around tourist locations (*DuSable Lake Shore Dr & Monroe St, Navy Pier, Streeter Dr & Grand Ave*), while Member hotspots center around business and transit hubs (*Kingsbury St & Kinzie St, Clinton St & Washington Blvd, Clinton St & Madison St*).
 
