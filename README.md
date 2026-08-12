@@ -23,7 +23,7 @@ Rather than applying broad weekend discounts that dilute tourist profitability, 
 ---
 
 ## 🖥️ Interactive Dashboard & Visualizations
-![Dashboard Overview](https://github.com/ariana-zylf/Cyclistic-Case-Study/blob/main/dashboards/dashboard_overview.PNG?raw=true)
+![Dashboard Overview](dashboards/dashboard_overview.PNG)
 * **Executive Dashboard (Preview Above):** Central comparative analysis between Casual Riders & Annual Members.
 * **Detailed Dashboard Directory:** Access the complete suite of high-resolution dashboards (including individual Casual-specific and Member-specific breakdowns) in the [/dashboards](./dashboards) directory.
 * **Power BI Interactive File (.pbix):** [Download Full Dashboard via Google Drive](https://drive.google.com/file/d/1i2gdlrlXwOtlJ5fofru4fP8AO5XzCbO_/view?usp=drive_link)
