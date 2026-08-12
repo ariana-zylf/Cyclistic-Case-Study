@@ -1,7 +1,7 @@
 # Cyclistic Bikeshare: Conversion Strategy & Executive Case Study
 
 **Role:** Data Analyst  
-**Tools:** BigQuery SQL (Sandbox), Power BI, Spatial Analytics  
+**Tools & Techniques:** BigQuery SQL (Sandbox), Power BI, Spatial Analytics  
 **Scope:** Analysis of 5.5M+ trip records (`cleaned_year_tripdata`)  
 
 ---
